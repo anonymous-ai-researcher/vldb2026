@@ -17,8 +17,8 @@ This repository provides the official PyTorch implementation for **GUARDNET**. T
 > **📌 Note for Reviewers:** This repository contains the **extended version** of the paper with additional materials not included in the main submission due to page limits:
 > - **Appendix A**: Full proofs of Theorem 1 (Soundness) and Theorem 2 (Training Complexity)
 > - **Appendix B**: Detailed dataset statistics and hyperparameter search spaces
-> - **Appendix C**: Logic translation standards (DL → GF)
-> - **Appendix D**: Additional sensitivity analysis results
+> - **Appendix C**: Logic Translation Standards
+> - **Appendix D**: Parameter Sensitivity Analysis
 > - **Appendix E**: Algorithm pseudocode
 >
 > Please refer to [`extended_paper.pdf`](extended_paper.pdf) for the complete technical details.
